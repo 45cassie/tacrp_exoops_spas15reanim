@@ -102,12 +102,12 @@ ATT.Mult_ShootingSpeedMult = 1.15
 ATT.Override_EjectDelay = 0.2
 
 ATT.Hook_TranslateSequence = function(self, seq)
-    if seq == "fire1" then
+    if seq == "fire" then
         return {"fire_pump"}
-    elseif seq == "blind_fire1" then
+    elseif seq == "blind_fire" then
         return {"blind_fire_pump"}
     elseif seq == "fire_iron" then
-        return {"fire_pump"}
+        return {"fire_iron_pump"}
 	elseif seq == "reload" then
 		return {"reload_pump"}
     end
