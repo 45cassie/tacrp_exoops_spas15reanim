@@ -11,7 +11,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Well-rounded pistol with a rapid rate of fire."
-SWEP.Description_Quote = "\"Hunt them down and kill them off, one by one.\""
+SWEP.Description_Quote = "\"Hunt them down and kill them off, one by one.\"" -- Underworld (2003)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Walther"

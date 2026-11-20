@@ -12,7 +12,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Modern snub-nose revolver with a hexagonal cylinder. Small caliber and low-bore barrel makes the gun quick and easy to fire."
-SWEP.Description_Quote = "[ REMEMBER OUR PROMISE ]"
+SWEP.Description_Quote = "[ REMEMBER OUR PROMISE ]" -- SIGNALIS [ 2022 ]
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Chiappa Firearms"

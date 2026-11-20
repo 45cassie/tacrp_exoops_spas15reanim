@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "3Submachine Gun"
 
 SWEP.Description = "Intergrally suppressed variant of the iconic SMG. Reduced range, but has low recoil and no visible tracer."
-SWEP.Description_Quote = "\"Weapons free.\""
+SWEP.Description_Quote = "\"Weapons free.\"" -- Call of Duty 4: Modern Warfare (2007)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Heckler & Koch"

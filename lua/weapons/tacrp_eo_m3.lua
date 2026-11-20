@@ -11,7 +11,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "5Shotgun"
 
 SWEP.Description = "Semi-automatic shotgun with good recoil control and accuracy."
-SWEP.Description_Quote = "\"Come on, Daywalker!\"" --Blade (1998)
+SWEP.Description_Quote = "\"Come on, Daywalker!\"" -- The shotgun Blade uses in Blade (1998) is based off this weapon.
 
 SWEP.Trivia_Caliber = "12 Gauge"
 SWEP.Trivia_Manufacturer = "Benelli Armi S.p.A."

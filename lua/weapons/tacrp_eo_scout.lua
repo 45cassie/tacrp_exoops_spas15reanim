@@ -11,7 +11,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "6Marksman Rifle"
 
 SWEP.Description = "Lightweight rifle designed for portability and comfort rather than direct firepower. Has a built-in bipod.\nEquipped with a 6x scope by default."
-SWEP.Description_Quote = "\"Headshot!\" \"Humiliation!\" "
+SWEP.Description_Quote = "\"Headshot!\" \"Humiliation!\""
 
 SWEP.Trivia_Caliber = "5.56x45mm"
 SWEP.Trivia_Manufacturer = "Steyr Mannlicher"

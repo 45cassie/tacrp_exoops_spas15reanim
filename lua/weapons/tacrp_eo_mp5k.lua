@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "3Machine Pistol"
 
 SWEP.Description = "Compact variant of the iconic SMG. Well-rounded but trades the precision and control of its full-size counterpart for improved handling."
-SWEP.Description_Quote = "\"Guns. Lots of guns.\""
+SWEP.Description_Quote = "\"Guns. Lots of guns.\"" -- The Matrix (1999)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Heckler & Koch"

@@ -12,7 +12,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "3Machine Pistol"
 
 SWEP.Description = "Premium burst-fire pistol with a fast non-runaway burst and great hip-fire performance."
-SWEP.Description_Quote = "\"Faith, the train! Take the train!\""
+SWEP.Description_Quote = "\"Faith, the train! Take the train!\"" -- Reference to Mirror's Edge (2008) ((I think))
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Pietro Beretta"

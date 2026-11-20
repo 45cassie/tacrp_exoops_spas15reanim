@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Compact handgun with swift handling but poor range."
-SWEP.Description_Quote = "\"Who said we were terrorists?\""
+SWEP.Description_Quote = "\"Who said we were terrorists?\"" -- Die Hard (1988)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Heckler & Koch"

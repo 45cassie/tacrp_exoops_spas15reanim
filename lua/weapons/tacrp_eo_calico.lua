@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "3Machine Pistol"
 
 SWEP.Description = "Odd spacegun-looking pistol with a massive helical magazine."
-SWEP.Description_Quote = "\"I've got more hostages than you've had hot dinners.\""
+SWEP.Description_Quote = "\"I've got more hostages than you've had hot dinners.\"" -- Hard Boiled (1992)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Calico Light Weapons Systems"

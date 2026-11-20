@@ -12,7 +12,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "5Battle Rifle"
 
 SWEP.Description = "Battle rifle designed for multiple infantry roles. Specialized ammo has high armor penetration and maintains damage over range."
-SWEP.Description_Quote = "\"Bravo Six, going dark.\""
+SWEP.Description_Quote = "\"Bravo Six, going dark.\"" -- Call of Duty: Modern Warfare (2019)
 
 SWEP.Trivia_Caliber = ".277 SIG Fury"
 SWEP.Trivia_Manufacturer = "SIG Sauer Inc."

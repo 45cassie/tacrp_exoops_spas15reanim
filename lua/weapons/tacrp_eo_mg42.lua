@@ -11,8 +11,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "5Machine Gun"
 
 SWEP.Description = "Antique machine gun with a blazing fast rate of fire.\nFiring from the shoulder is not recommended."
-SWEP.Description_Quote = "\"獣には獣の物語があるのさ。\""
-// "\"We're not men disguised as mere dogs. We are wolves disguised as men.\"" // too long womp womp
+SWEP.Description_Quote = "\"獣には獣の物語があるのさ。\"" -- "\"We're not men disguised as mere dogs. We are wolves disguised as men.\"" -- Jin-Roh: The Wolf Brigade (1999)
 
 SWEP.Trivia_Caliber = "7.92x57mm Mauser"
 SWEP.Trivia_Manufacturer = "Großfuß AG"

@@ -12,7 +12,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "4Assault Rifle"
 
 SWEP.Description = "Bulky assault rifle with a controllable rate of fire."
-SWEP.Description_Quote = "\"Is life always this hard, or is it just when you're a kid?\"" -- Léon: The Professional
+SWEP.Description_Quote = "\"Is life always this hard, or is it just when you're a kid?\"" -- Léon: The Professional (1994)
 
 SWEP.Trivia_Caliber = "5.56x45mm"
 SWEP.Trivia_Manufacturer = "Pietro Beretta"

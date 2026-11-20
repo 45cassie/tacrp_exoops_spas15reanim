@@ -12,7 +12,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "4Assault Rifle"
 
 SWEP.Description = "Modern rifle with lightweight polymer construction. Originally built for the U.S. military, it found more success as a civilian rifle."
-SWEP.Description_Quote = "\"Break's over, Roach. Let's go.\"" -- Modern Warfare 2 (2009)
+SWEP.Description_Quote = "\"Break's over, Roach. Let's go.\"" -- Call of Duty: Modern Warfare 2 (2009)
 
 SWEP.Trivia_Caliber = "5.56x45mm"
 SWEP.Trivia_Manufacturer = "Magpul Indutries"

@@ -12,7 +12,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "4Assault Rifle"
 
 SWEP.Description = "Bullpup carbine with high fire rate and mobility, but unstable recoil due to its unusual ergonomics.\nEquipped with a 1.6x scope by default."
-SWEP.Description_Quote = "\"Did you just say I have to win one for the Gipper?\""
+SWEP.Description_Quote = "\"Did you just say I have to win one for the Gipper?\"" -- Tom Clancy's Splinter Cell: Chaos Theory (2005)
 
 SWEP.Trivia_Caliber = "5.56x45mm"
 SWEP.Trivia_Manufacturer = "FN Herstal"

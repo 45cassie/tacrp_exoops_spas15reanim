@@ -12,7 +12,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Sturdy 9mm pistol with great mobility and high firerate. \nMarketed as the \"Baby Eagle\" for its superficial resemblance to the Desert Eagle."
-SWEP.Description_Quote = "\"See you, space cowboy...\""
+SWEP.Description_Quote = "\"See you, space cowboy...\"" -- Cowboy Bebop (1998-1999)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Israel Military Industries"

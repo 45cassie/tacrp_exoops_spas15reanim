@@ -11,7 +11,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "5Machine Gun"
 
 SWEP.Description = "Heavy machine gun with intense stopping power but a low rate of fire. Nicknamed \"The Pig\" for its considerable heft."
-SWEP.Description_Quote = "\"Live for nothing, or die for something. Your call.\""
+SWEP.Description_Quote = "\"Live for nothing, or die for something. Your call.\"" -- Rambo (2008)
 
 SWEP.Trivia_Caliber = "7.62x51mm"
 SWEP.Trivia_Manufacturer = "General Dynamics"

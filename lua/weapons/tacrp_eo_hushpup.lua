@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Vintage special forces pistol designed for covert operations."
-SWEP.Description_Quote = "\"Commencing operation Snake Eater.\""
+SWEP.Description_Quote = "\"Commencing operation Snake Eater.\"" -- Metal Gear Solid 3: Snake Eater (2004)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Smith & Wesson"

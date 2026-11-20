@@ -12,7 +12,7 @@ SWEP.SubCatTier = "5Value"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Sleek post-war, single-stack, hammer-fired pistol.\nSlightly unreliable due to its age."
-SWEP.Description_Quote = "\"Do you suppose that I come to bring peace to the world?\""
+SWEP.Description_Quote = "\"Do you suppose that I come to bring peace to the world?\"" -- The Gospel of John (2003)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "SIG Sauer"

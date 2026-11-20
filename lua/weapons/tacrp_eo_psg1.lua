@@ -12,7 +12,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "6Marksman Rifle"
 
 SWEP.Description = "Elegant semi-automatic sniper with unmatched precision and recoil control. Equipped with an 8x scope by default."
-SWEP.Description_Quote = "\"I was born on a battlefield. Raised on a battlefield.\""
+SWEP.Description_Quote = "\"I was born on a battlefield. Raised on a battlefield.\"" -- Metal Gear Solid (1998)
 
 SWEP.Trivia_Caliber = "7.62x51mm"
 SWEP.Trivia_Manufacturer = "Heckler & Koch"
